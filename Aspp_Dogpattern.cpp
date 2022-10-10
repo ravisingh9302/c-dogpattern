@@ -7,7 +7,8 @@ void leg(void);
 
 int main()
 {
-
+    cout<<endl;
+    cout<<endl;
     head(/* don't use void here */); // calling the function..
     body();
     leg();
